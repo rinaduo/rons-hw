@@ -1,6 +1,6 @@
 # rons-hw
 
-# Things to do
+## Things to do
 ### homework
 * potions
 * Tranfiguration
